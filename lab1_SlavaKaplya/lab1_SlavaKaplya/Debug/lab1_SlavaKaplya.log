@@ -1,0 +1,9 @@
+﻿  lab1_SlavaKaplya.cpp
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(78): warning C4305: инициализация: усечение из "double" в "float"
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(79): warning C4305: инициализация: усечение из "double" в "float"
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(157): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(229): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(235): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(237): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\my_works\visual_studia\lab1_slavakaplya\lab1_slavakaplya\lab1_slavakaplya.cpp(240): warning C4101: xmap: неиспользованная локальная переменная
+  lab1_SlavaKaplya.vcxproj -> D:\my_works\visual_studia\lab1_SlavaKaplya\Debug\lab1_SlavaKaplya.exe
